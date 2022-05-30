@@ -1,0 +1,9 @@
+2022-05-13 11:01:20:071 [main] INFO  c.z.f.FModApplication - [logStarting,55] - Starting FModApplication v0.0.1-SNAPSHOT using Java 1.8.0_131 on MS-JLHQOOCLVYTH with PID 9768 (F:\copy\persion\demo\modules\first-mod\target\first-mod-0.0.1-SNAPSHOT.jar started by Administrator in F:\copy\persion\demo\modules\first-mod\target)
+2022-05-13 11:01:20:073 [main] INFO  c.z.f.FModApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+2022-05-13 11:01:20:806 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-18001"]
+2022-05-13 11:01:20:806 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+2022-05-13 11:01:20:806 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-13 11:01:20:884 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+2022-05-13 11:01:21:166 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-18001"]
+2022-05-13 11:01:21:232 [main] INFO  c.z.f.FModApplication - [logStarted,61] - Started FModApplication in 1.452 seconds (JVM running for 1.841)
+2022-05-13 11:01:29:923 [http-nio-18001-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
